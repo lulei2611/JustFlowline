@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustFlowline", "JustWorkflow\JustFlowline.csproj", "{F6A43D07-5B2E-4CE9-8C37-33335529EDB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustFlowline.Test", "JustFlowline.Test\JustFlowline.Test.csproj", "{DBDF5316-3FF0-4D4F-9707-4CC645C22617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A43D07-5B2E-4CE9-8C37-33335529EDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6A43D07-5B2E-4CE9-8C37-33335529EDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6A43D07-5B2E-4CE9-8C37-33335529EDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6A43D07-5B2E-4CE9-8C37-33335529EDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDF5316-3FF0-4D4F-9707-4CC645C22617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDF5316-3FF0-4D4F-9707-4CC645C22617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDF5316-3FF0-4D4F-9707-4CC645C22617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDF5316-3FF0-4D4F-9707-4CC645C22617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F999B8B-9FBF-405A-9227-C4B485859FBF}
+	EndGlobalSection
+EndGlobal
