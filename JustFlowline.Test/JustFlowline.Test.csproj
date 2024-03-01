@@ -57,7 +57,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JustWorkflow\JustFlowline.csproj">
+    <ProjectReference Include="..\JustFlowline\JustFlowline.csproj">
       <Project>{f6a43d07-5b2e-4ce9-8c37-33335529edb4}</Project>
       <Name>JustFlowline</Name>
     </ProjectReference>
